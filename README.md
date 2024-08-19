@@ -1,4 +1,4 @@
-# Capstone-Project-JCDS-3
+# California Housing Price Regression Model
 
 Real estate remains a popular investment due to the consistent upward trend in property prices and the ease of access through property agents. However, accurately estimating housing prices is challenging. If priced too low, sellers incur losses; if too high, properties may remain unsold. Therefore, balancing prices is crucial, requiring careful analysis of property features and market trends.
 
